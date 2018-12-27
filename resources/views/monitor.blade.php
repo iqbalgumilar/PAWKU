@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Buat Sertifikat - EasyCertificate</title>
+    <title>Buat Sertifikat - EasyCertificate - MONITOR 2018</title>
     <script src="js/jquery-3.3.1.min.js" type="text/javascript"></script>
     <script src="js/jspdf.debug.js" type="text/javascript"></script>
     <link rel="icon" type="image/png" href="images/icons/favicon.png" />

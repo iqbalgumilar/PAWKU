@@ -19,6 +19,14 @@ Route::get('/monitor', function () {
     return view('monitor');
 });
 
+Route::get('/batik', function () {
+    return view('batik');
+});
+
+Route::get('/plain', function () {
+    return view('plain');
+});
+
 Route::get('/home', function () {
     return view('home');
 });
